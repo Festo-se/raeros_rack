@@ -1,0 +1,8 @@
+#goal definition
+
+---
+#result definition
+bool done
+---
+#feedback
+float64 position

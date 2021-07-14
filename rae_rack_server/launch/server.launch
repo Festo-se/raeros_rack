@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="rae_rack_server" name="rae_rack_server" type="rae_rack_server.py" output="screen" respawn="false"/>
+</launch>

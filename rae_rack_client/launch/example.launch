@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find rae_rack_server)/launch/server.launch"/>
+    <node pkg="rae_rack_client" name="example" type="example.py" output="screen" respawn="false"/>
+</launch>

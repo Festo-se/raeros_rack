@@ -1,0 +1,9 @@
+#goal definition
+float64 position
+int64 current
+---
+#result definition
+bool done
+---
+#feedback
+int32 percentage
